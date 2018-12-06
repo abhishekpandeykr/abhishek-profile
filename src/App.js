@@ -9,13 +9,13 @@ class App extends Component {
     return (
       <div className = "App" >
         <header className = "App-header" >
-      <img src = {
-        logo
-      }
-      className = "App-logo"
-      alt = "logo" / >
-      <p>Abhishek 's Profile Coming Soon </p>
-      </header>
+          <img src = {
+              logo
+            }
+            className = "App-logo"
+            alt = "logo" / >
+          <p> Abhishek's Profile Coming Soon </p>
+        </header > 
       </div>
     );
   }
