@@ -1,0 +1,28 @@
+ {
+     "headers": [{
+             "name": "Home"
+         },
+         {
+             "name": "Contact"
+         },
+         {
+             "name": "Work"
+         }
+     ],
+     "contactMe": [{
+             "name": "LinkedIn",
+             "url": "https://www.linkedin.com/in/abhishek-pandey-075a69103/",
+             "socialImage": "http://www.logospng.com/images/177/linkedin-icon-white-ndash-free-icons-177288.png"
+         },
+         {
+             "name": "Twitter",
+             "url": "https://twitter.com/abhishekkrpand1",
+             "socialImage": "https://www.nets.eu/SiteCollectionImages/System/Twitter_logo_white.png"
+         },
+         {
+             "name": "Github",
+             "url": "https://github.com/abhishekpandeykr",
+             "socialImage": "https://magentys.io/wp-content/uploads/2017/04/github-logo-1.png"
+         }
+     ]
+ }
